@@ -1,0 +1,32 @@
+.navbar {
+
+	border: none;
+	background-color: white;
+
+}
+
+
+#logo-img {
+
+	margin-top: 15px;
+}
+
+
+.right {
+	float: right;
+	margin-right: 10px;
+	text-transform: uppercase;
+text-align: center;
+}
+
+
+#header {
+	border-bottom: 2px solid #2d3c49;
+}
+
+
+#title {
+
+	color: #7d97ad;
+}
+
